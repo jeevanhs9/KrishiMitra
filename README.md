@@ -3,7 +3,7 @@
 
 <p align="center">
   <img
-    src="./src/assets/YOUR_GIF_FILENAME.gif"
+    src="./src/assets/krishi-mitra-hero.gif"
     width="100%"
     alt="Krishi Mitra - Grow Together. Prosper Together."
   />
