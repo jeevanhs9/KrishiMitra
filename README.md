@@ -1,150 +1,212 @@
-# 🌾 FarmLink AI
-### From Farm to Market. Smarter. Faster. Fairer.
+# 🌾 Krishi Mitra
+### Grow Together. Prosper Together.
 
 <p align="center">
-  <strong>An intelligent agricultural supply-chain platform connecting farmers, buyers, FPOs and logistics providers.</strong>
+  <img src="src/assets/Krishi%20Mitra_%20Growing%20Together%20Animated%20Storyboard.png" width="100%" alt="Krishi Mitra - Agricultural Technology" />
+</p>
+
+<p align="center">
+  <strong>Empowering Farmers. Connecting Markets. Transforming Agriculture.</strong>
+</p>
+
+<p align="center">
+  An intelligent agricultural supply-chain platform connecting farmers, FPOs, buyers and logistics providers through smart technology.
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-3-black?style=for-the-badge&logo=flask" />
+  <img src="https://img.shields.io/badge/Flask-3-black?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-18-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI-Driven-8A2BE2?style=flat-square" />
-  <img src="https://img.shields.io/badge/AgriTech-Innovation-2E8B57?style=flat-square" />
-  <img src="https://img.shields.io/badge/Status-Prototype-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Languages-13-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI-Powered-8A2BE2?style=flat-square" />
+  <img src="https://img.shields.io/badge/AgriTech-Innovation-228B22?style=flat-square" />
+  <img src="https://img.shields.io/badge/Languages-13-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Project-Prototype-blue?style=flat-square" />
 </p>
 
 ---
 
-## 🌱 The Vision
+## 🌱 The Vision Behind Krishi Mitra
 
-Agricultural supply chains often involve multiple intermediaries, fragmented transportation, unpredictable demand and limited access to market intelligence.
+Agriculture is the backbone of our economy, yet farmers continue to face challenges such as limited market access, multiple intermediaries, unpredictable demand, transportation inefficiencies and post-harvest losses.
 
-Small farmers frequently struggle to reach buyers directly, while inefficient transportation increases costs and the risk of produce spoilage.
+**Krishi Mitra is built to bridge these gaps.**
 
-**FarmLink AI aims to change this.**
+It brings farmers, Farmer Producer Organizations (FPOs), buyers and logistics providers together through a unified digital ecosystem.
 
-It brings farmers, Farmer Producer Organizations (FPOs), buyers and logistics operators together through an intelligent digital ecosystem.
+By combining intelligent market insights, direct marketplace connectivity, collaborative transportation and supply-chain management, Krishi Mitra aims to make agricultural trade more transparent, accessible and efficient.
 
-By combining marketplace connectivity, AI-assisted insights, collaborative transportation and supply-chain management, FarmLink AI aims to make agricultural trade more transparent, efficient and accessible.
+<p align="center">
+  <strong>🌾 From the farmer's field to the buyer's doorstep.</strong>
+</p>
 
 ---
 
-## ✨ What Makes FarmLink AI Different?
+## 🚜 The Krishi Mitra Ecosystem
+
+<p align="center">
+  <img src="https://img.shields.io/badge/01-FARMERS-2E8B57?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/02-MARKETPLACE-228B22?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/03-LOGISTICS-168AAD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/04-BUYERS-E69F00?style=for-the-badge" />
+</p>
+
+```mermaid
+flowchart LR
+    A["🌾 Farmers & FPOs"] --> B["🛒 Digital Marketplace"]
+    B --> C["🚛 Shared Logistics"]
+    C --> D["🏪 Buyers"]
+
+    B -.-> E["📊 AI Intelligence"]
+    E -.-> A
+    E -.-> C
+
+    style A fill:#dcfce7,stroke:#15803d,color:#14532d
+    style B fill:#d1fae5,stroke:#059669,color:#064e3b
+    style C fill:#dbeafe,stroke:#2563eb,color:#1e3a8a
+    style D fill:#fef3c7,stroke:#d97706,color:#78350f
+    style E fill:#ede9fe,stroke:#7c3aed,color:#4c1d95
+```
+
+---
+
+## ✨ What Makes Krishi Mitra Special?
 
 <table>
 <tr>
-<td width="50%">
-<h3>🌾 Direct Farmer Marketplace</h3>
-Connect farmers and FPOs with buyers through digital produce listings, transparent pricing and order management.
+<td width="50%" valign="top">
+
+### 🌾 Direct Farmer Marketplace
+
+- Digital produce listings.
+- Direct buyer connections.
+- Inventory management.
+- Transparent pricing.
+- Order management.
+
 </td>
-<td width="50%">
-<h3>🚛 Intelligent Load Pooling</h3>
-Combine compatible orders into shared shipments, improving vehicle utilisation and reducing fragmented transportation.
+<td width="50%" valign="top">
+
+### 🚛 Intelligent Load Pooling
+
+- Combine compatible orders.
+- Shared transportation.
+- Shipment manifests.
+- Vehicle capacity management.
+- Coordinated delivery routes.
+
 </td>
 </tr>
 <tr>
-<td width="50%">
-<h3>📊 AI-Powered Intelligence</h3>
-Demand forecasting, supply-demand gap analysis and price intelligence to support better agricultural decisions.
+<td width="50%" valign="top">
+
+### 🧠 AI-Powered Intelligence
+
+- Demand forecasting.
+- Supply-demand gap analysis.
+- Price intelligence.
+- Buyer-offer comparison.
+- Alternative buyer matching.
+
 </td>
-<td width="50%">
-<h3>📍 Smart Logistics</h3>
-Shipment manifests, route planning, delivery stages and GPS-based location updates.
+<td width="50%" valign="top">
+
+### 📍 Smart Logistics
+
+- Shipment management.
+- Route planning.
+- GPS location updates.
+- Delivery tracking.
+- Disruption management.
+
 </td>
 </tr>
 <tr>
-<td width="50%">
-<h3>🌐 Multilingual Accessibility</h3>
-13 selectable languages, including Kannada, Hindi, Telugu, Tamil, Malayalam and other Indian languages.
+<td width="50%" valign="top">
+
+### 🌐 Multilingual Accessibility
+
+- 13 selectable languages.
+- Kannada and other Indian languages.
+- Persistent language preferences.
+- English fallback.
+- Urdu right-to-left support.
+
 </td>
-<td width="50%">
-<h3>🏢 Enterprise Integration</h3>
-SAP-style export adapters for purchase orders, transportation orders and supply-chain disruption alerts.
+<td width="50%" valign="top">
+
+### 🏢 Enterprise Integration
+
+- SAP-style purchase-order exports.
+- Transportation-order exports.
+- Supply-chain disruption alerts.
+- Operational analytics.
+- Audit logs.
+
 </td>
 </tr>
 </table>
 
 ---
 
-## 🚀 Key Features
+## 📸 Platform Highlights
 
-### 1. Farmer & FPO Workspace
-- Create and manage agricultural produce listings.
-- Track available inventory and quantities.
-- Access demand forecasts and price intelligence.
-- Compare buyer offers and estimated net proceeds.
-- Participate in shared transportation opportunities.
-- Manage orders and notifications.
+<p align="center">
+  <i>Application screenshots can be added here as the platform evolves.</i>
+</p>
 
-### 2. Buyer Marketplace
-- Explore available agricultural produce.
-- View product details and pricing.
-- Add products to cart and place orders.
-- Simulated checkout and order management.
-- Track order and delivery stages.
+| Farmer Workspace | Buyer Marketplace |
+|---|---|
+| Produce listings, forecasts and offers | Product discovery, cart and orders |
+| Logistics Workspace | Admin Dashboard |
+| Shipment coordination and tracking | Platform analytics and management |
 
-### 3. Logistics Management
-- Manage shipments and transportation capacity.
-- Coordinate pooled orders.
-- Create shipment manifests and delivery stops.
-- View routes and shipment locations.
-- Receive GPS location updates.
-- Manage delivery progress and disruptions.
+---
 
-### 4. AI & Supply-Chain Intelligence
-- Agricultural demand forecasting.
-- Supply-demand gap analysis.
-- Price intelligence.
-- Buyer-offer comparison.
-- Alternative buyer matching during disruptions.
-- Operational analytics.
+## 🧠 AI & Supply Chain Intelligence
 
-### 5. Multilingual Experience
+Krishi Mitra incorporates intelligent decision-support capabilities to help improve agricultural supply-chain operations.
 
-FarmLink AI supports 13 selectable locales:
+| Capability | Description |
+|---|---|
+| Demand Forecasting | Estimates future demand using available demonstration inputs |
+| Price Intelligence | Provides agricultural pricing insights |
+| Supply-Demand Analysis | Identifies potential supply-demand gaps |
+| Offer Comparison | Compares buyer offers after freight and platform costs |
+| Disruption Recovery | Suggests alternative buyer matches |
+| Operational Analytics | Provides platform-level operational insights |
+
+---
+
+## 🌍 Built for India's Agricultural Diversity
+
+Krishi Mitra supports 13 selectable languages, helping make the platform more accessible to regional users.
 
 | Language | Code |
 |---|---|
 | English | `en` |
-| Kannada | `kn` |
-| Hindi | `hi` |
-| Telugu | `te` |
-| Tamil | `ta` |
-| Malayalam | `ml` |
-| Marathi | `mr` |
-| Bengali | `bn` |
-| Gujarati | `gu` |
-| Punjabi | `pa` |
-| Odia | `or` |
-| Assamese | `as` |
-| Urdu | `ur` |
+| ಕನ್ನಡ – Kannada | `kn` |
+| हिन्दी – Hindi | `hi` |
+| తెలుగు – Telugu | `te` |
+| தமிழ் – Tamil | `ta` |
+| മലയാളം – Malayalam | `ml` |
+| मराठी – Marathi | `mr` |
+| বাংলা – Bengali | `bn` |
+| ગુજરાતી – Gujarati | `gu` |
+| ਪੰਜਾਬੀ – Punjabi | `pa` |
+| ଓଡ଼ିଆ – Odia | `or` |
+| অসমীয়া – Assamese | `as` |
+| اردو – Urdu | `ur` |
 
-Language preferences persist across refreshes, with English as the fallback when translations are unavailable.
-
----
-
-## 🛠️ Technology Stack
-
-| Layer | Technologies |
-|---|---|
-| Frontend | React 19, Vite 8 |
-| Routing | React Router 7 |
-| Styling | Tailwind CSS 4 |
-| UI & Charts | Lucide React, Recharts |
-| Internationalization | i18next, react-i18next |
-| Backend | Python, Flask 3 |
-| Database | PostgreSQL 18 / SQLite |
-| ORM | SQLAlchemy 2 |
-| Database Driver | psycopg 3 |
-| Maps | Google Maps, Geoapify |
-| Testing | pytest, oxlint |
-| Enterprise | SAP-style integration adapters |
+**Internationalization features:**
+- Language selection persists across refreshes.
+- Browser language detection.
+- English fallback for untranslated phrases.
+- Right-to-left layout support for Urdu.
+- Translation resources maintained using i18next.
 
 ---
 
@@ -152,27 +214,54 @@ Language preferences persist across refreshes, with English as the fallback when
 
 ```mermaid
 flowchart TB
-    A["👨‍🌾 Farmer / FPO"]
-    B["🛒 Buyer"]
-    C["🚛 Logistics Operator"]
-    D["⚙️ Administrator"]
+    subgraph USERS["Platform Users"]
+        A["Farmer / FPO"]
+        B["Buyer"]
+        C["Logistics Operator"]
+        D["Administrator"]
+    end
 
-    A --> E["React + Vite Frontend"]
+    subgraph FRONTEND["Frontend Layer"]
+        E["React 19 + Vite"]
+        F["Role-based Dashboards"]
+        G["Multilingual Interface"]
+    end
+
+    subgraph BACKEND["Backend Layer"]
+        H["Flask REST API"]
+        I["Business Logic"]
+        J["AI & Intelligence Engines"]
+        K["Shipment & Routing Services"]
+        L["SAP Export Adapters"]
+    end
+
+    subgraph STORAGE["Data Layer"]
+        M[("PostgreSQL / SQLite")]
+    end
+
+    subgraph EXTERNAL["External Services"]
+        N["Google Maps / Geoapify"]
+    end
+
+    A --> E
     B --> E
     C --> E
     D --> E
 
-    E --> F["Flask REST API"]
+    E --> F
+    E --> G
+    E --> H
 
-    F --> G[("PostgreSQL / SQLite")]
-    F --> H["AI & Intelligence Engines"]
-    F --> I["Shipment & Routing Services"]
-    F --> J["SAP Export Adapters"]
+    H --> I
+    I --> J
+    I --> K
+    I --> L
+    I --> M
 
-    I --> K["Google Maps / Geoapify"]
+    K --> N
 ```
 
-### Order-to-Delivery Workflow
+### Order-to-Delivery Lifecycle
 
 ```mermaid
 flowchart TD
@@ -186,13 +275,37 @@ flowchart TD
     H["Delivery status updated"]
 
     A --> B --> C --> D --> E --> F --> G --> H
+
+    style A fill:#dcfce7,stroke:#15803d,color:#14532d
+    style H fill:#bbf7d0,stroke:#15803d,color:#14532d
 ```
+
+---
+
+## 🛠️ Technology Stack
+
+| Layer | Technologies |
+|---|---|
+| Frontend | React 19, Vite 8 |
+| Routing | React Router 7 |
+| Styling | Tailwind CSS 4 |
+| UI & Charts | Lucide React, Recharts |
+| Internationalization | i18next, react-i18next |
+| Backend | Python 3.10+, Flask 3 |
+| ORM | SQLAlchemy 2 |
+| Database | PostgreSQL 18 / SQLite |
+| Database Driver | psycopg 3 |
+| Maps & Routing | Google Maps, Geoapify |
+| Testing | pytest, oxlint |
+| Enterprise Integration | SAP-style adapters |
 
 ---
 
 ## 💻 Getting Started
 
 ### Prerequisites
+
+Make sure you have the following installed:
 
 - Node.js 20.19+ or 22.12+
 - Python 3.10+
@@ -202,21 +315,26 @@ flowchart TD
 
 ```bash
 git clone <YOUR_REPOSITORY_URL>
-cd <YOUR_PROJECT_FOLDER>
+cd KrishiMitra
 ```
 
 ### 2. Install frontend dependencies
 
 ```bash
 npm install
+```
+
+### 3. Start the frontend
+
+```bash
 npm run dev
 ```
 
 Frontend: `http://localhost:5173`
 
-### 3. Configure the backend
+### 4. Configure the backend
 
-Open a second terminal:
+Open another terminal:
 
 ```bash
 cd server
@@ -226,9 +344,9 @@ python app.py
 
 Backend: `http://127.0.0.1:5000`
 
-### 4. Environment configuration
+### 5. Environment Configuration
 
-Create a `.env` file in the project root using `.env.example` as a reference.
+Create a `.env` file in the repository root using `.env.example` as a reference.
 
 ```env
 VITE_API_BASE_URL=
@@ -236,6 +354,7 @@ VITE_API_BASE_URL=
 FARMLINK_DATABASE_URL=postgresql+psycopg://username:password@127.0.0.1:5432/farmlink
 
 FARMLINK_CORS_ORIGINS=http://localhost:5173,http://127.0.0.1:5173
+
 FARMLINK_HOST=127.0.0.1
 PORT=5000
 
@@ -244,14 +363,15 @@ VITE_GOOGLE_MAPS_MAP_ID=
 
 GOOGLE_MAPS_SERVER_API_KEY=
 GEOAPIFY_API_KEY=
+
 FARMLINK_GEOCODE_REGION=in
 ```
 
-**Important:** Never commit `.env` files or expose server-side API keys through frontend environment variables.
+**Security reminder:** Never commit `.env` files or expose server-side API keys through frontend environment variables.
 
-### 5. Database setup
+### 6. Database Preparation
 
-FarmLink AI includes SQLite for local demonstration and supports PostgreSQL for persistent database storage.
+SQLite is included for local demonstration. PostgreSQL is supported for persistent database storage.
 
 For an existing database requiring migrations:
 
@@ -263,7 +383,7 @@ python migrate_shipment_locations.py
 python seed.py --repair-demo-users
 ```
 
-For transferring existing SQLite data to an empty PostgreSQL database:
+For transferring SQLite data to an empty PostgreSQL database:
 
 ```bash
 python migrate_sqlite_to_postgres.py
@@ -274,20 +394,22 @@ python migrate_sqlite_to_postgres.py
 ## 📂 Project Structure
 
 ```text
-FarmLink-AI/
+KrishiMitra/
 │
 ├── src/
 │   ├── pages/              # Role-specific application screens
 │   ├── components/         # Reusable UI components
 │   ├── context/            # Application state management
-│   ├── services/           # API integration
-│   ├── i18n/               # Language resources
-│   └── data/               # Demo data
+│   ├── services/
+│   │   └── api.js          # Frontend API integration
+│   ├── i18n/               # Translation resources
+│   ├── assets/             # Project images and visual assets
+│   └── data/               # Demo data and fixtures
 │
 ├── server/
 │   ├── app.py              # Flask REST API
-│   ├── models.py           # Database models
-│   ├── *_engine.py         # Forecasting, pricing, pooling
+│   ├── models.py           # SQLAlchemy database models
+│   ├── *_engine.py         # Intelligence and business engines
 │   ├── routing_service.py  # Geocoding and routing
 │   ├── sap_adapter.py      # SAP-style export adapters
 │   ├── seed.py             # Database seeding
@@ -295,16 +417,16 @@ FarmLink-AI/
 │   └── tests/              # Backend tests
 │
 ├── scripts/                # Translation audit utilities
-├── .env.example            # Environment template
+├── .env.example            # Environment configuration template
 ├── package.json
 └── README.md
 ```
 
 ---
 
-## 🔌 API Overview
+## 🔌 REST API Overview
 
-The backend exposes REST APIs under `/api`.
+All backend endpoints are available under `/api`.
 
 | Module | Main Endpoints |
 |---|---|
@@ -312,7 +434,7 @@ The backend exposes REST APIs under `/api`.
 | Products | `/products` |
 | Orders | `/orders` |
 | Pooling | `/pooling/opportunities`, `/pooling/confirm` |
-| Buyer Offers | `/offers`, `/offers/compare` |
+| Offers | `/offers`, `/offers/compare` |
 | Forecasting | `/forecasting`, `/forecasting/gaps` |
 | Disruptions | `/disruptions` |
 | Shipments | `/shipments` |
@@ -323,82 +445,122 @@ The backend exposes REST APIs under `/api`.
 | Audit Logs | `/audit-logs` |
 
 <details>
-<summary><strong>View detailed API documentation</strong></summary>
+<summary><strong>📦 Products and Inventory API</strong></summary>
 
-### Products
+| Method | Endpoint | Purpose |
+|---|---|---|
+| GET | `/products` | Search produce listings |
+| GET | `/products/{productId}` | Retrieve a listing |
+| POST | `/products` | Create a listing |
+| PUT | `/products/{productId}` | Update a listing |
+| DELETE | `/products/{productId}` | Deactivate a listing |
 
-- `GET /api/products`
-- `GET /api/products/{productId}`
-- `POST /api/products`
-- `PUT /api/products/{productId}`
-- `DELETE /api/products/{productId}`
+</details>
 
-### Orders
+<details>
+<summary><strong>🛒 Orders API</strong></summary>
 
-- `GET /api/orders`
-- `POST /api/orders`
-- `PATCH /api/orders/{orderId}/stage`
-- `POST /api/orders/{orderId}/cancel`
+| Method | Endpoint | Purpose |
+|---|---|---|
+| GET | `/orders` | List and filter orders |
+| POST | `/orders` | Create orders |
+| PATCH | `/orders/{orderId}/stage` | Update order stage |
+| POST | `/orders/{orderId}/cancel` | Cancel an order |
 
-### Pooling & Offers
+</details>
 
-- `GET /api/pooling/opportunities`
-- `POST /api/pooling/confirm`
-- `GET /api/offers`
-- `POST /api/offers/compare`
-- `POST /api/offers/{offerId}/accept`
+<details>
+<summary><strong>🚛 Pooling and Offers API</strong></summary>
 
-### Forecasting & Disruptions
+| Method | Endpoint | Purpose |
+|---|---|---|
+| GET | `/pooling/opportunities` | Find pooling opportunities |
+| POST | `/pooling/confirm` | Confirm pooling |
+| GET | `/offers` | Retrieve buyer offers |
+| POST | `/offers/compare` | Compare offers |
+| POST | `/offers/{offerId}/accept` | Accept an offer |
 
-- `GET /api/forecasting`
-- `GET /api/forecasting/gaps`
-- `GET /api/disruptions`
-- `GET /api/disruptions/{disruptionId}/matches`
-- `POST /api/disruptions/{disruptionId}/recover`
+</details>
 
-### Shipment & Routing
+<details>
+<summary><strong>🧠 Forecasting and Disruptions API</strong></summary>
 
-- `GET /api/shipments`
-- `POST /api/shipments`
-- `GET /api/shipments/{shipmentId}/location`
-- `POST /api/shipments/{shipmentId}/location`
-- `POST /api/shipments/{shipmentId}/cancel`
-- `PATCH /api/shipments/{shipmentId}/stage`
-- `GET /api/routing/geocode`
-- `POST /api/routing/route`
+| Method | Endpoint | Purpose |
+|---|---|---|
+| GET | `/forecasting` | Retrieve forecasts |
+| GET | `/forecasting/gaps` | Analyse supply-demand gaps |
+| GET | `/disruptions` | List disruption events |
+| GET | `/disruptions/{disruptionId}/matches` | Find alternative buyer matches |
+| POST | `/disruptions/{disruptionId}/recover` | Authorise recovery |
 
-### SAP & Administration
+</details>
 
-- `GET /api/sap/status`
-- `POST /api/sap/export-po/{orderId}`
-- `POST /api/sap/export-tm/{shipmentId}`
-- `POST /api/sap/control-tower-alert/{disruptionId}`
-- `GET /api/analytics`
-- `GET /api/notifications`
-- `PATCH /api/notifications/{notificationId}/read`
-- `GET /api/audit-logs`
+<details>
+<summary><strong>📍 Routing and Shipment API</strong></summary>
+
+| Method | Endpoint | Purpose |
+|---|---|---|
+| GET | `/routing/geocode` | Resolve locations |
+| POST | `/routing/route` | Calculate routes |
+| GET | `/shipments` | Retrieve shipments |
+| POST | `/shipments` | Create shipments |
+| GET | `/shipments/{shipmentId}/location` | Get latest location |
+| POST | `/shipments/{shipmentId}/location` | Save GPS updates |
+| POST | `/shipments/{shipmentId}/cancel` | Cancel shipments |
+| PATCH | `/shipments/{shipmentId}/stage` | Update shipment stage |
+
+</details>
+
+<details>
+<summary><strong>🏢 Analytics, SAP and Administration API</strong></summary>
+
+| Method | Endpoint | Purpose |
+|---|---|---|
+| GET | `/analytics` | Platform analytics |
+| GET | `/sap/status` | SAP adapter status |
+| POST | `/sap/export-po/{orderId}` | Purchase-order export |
+| POST | `/sap/export-tm/{shipmentId}` | Transportation export |
+| POST | `/sap/control-tower-alert/{disruptionId}` | Disruption alert export |
+| GET | `/notifications` | Retrieve notifications |
+| PATCH | `/notifications/{notificationId}/read` | Mark notification read |
+| GET | `/audit-logs` | Retrieve audit history |
 
 </details>
 
 ---
 
-## 🏢 Enterprise Integration – SAP
+## 🗺️ Maps, Routing and GPS
 
-FarmLink AI includes an adapter layer designed to generate SAP-style integration payloads.
+Krishi Mitra includes configurable mapping and location services.
 
-Supported export formats include:
+- Google Maps JavaScript API for browser-based maps.
+- Geoapify for server-side geocoding and routing.
+- Google Maps server APIs as an alternative.
+- Local location catalogue for demonstration without provider keys.
+- Shipment stops and manifests displayed on route maps.
+- GPS updates through shipment location endpoints.
+
+Real vehicle tracking requires a connected driver device or browser location integration. A simulated vehicle animation is not proof of live GPS tracking.
+
+---
+
+## 🏢 SAP Enterprise Integration
+
+Krishi Mitra includes a SAP-style adapter layer designed to generate inspectable enterprise integration payloads.
+
+Supported export formats:
 
 - SAP S/4HANA Materials Management (MM) purchase orders.
 - SAP Transportation Management (TM) freight orders.
 - SAP Supply Chain Control Tower disruption alerts.
 
-**Note:** These are mock export adapters, not live SAP system integrations.
+**Note:** These are mock integration adapters, not live SAP system connections.
 
 ---
 
-## 🧪 Testing & Quality Checks
+## 🧪 Testing and Quality Checks
 
-Frontend:
+Run frontend checks from the repository root:
 
 ```bash
 npm run lint
@@ -407,7 +569,7 @@ npm run i18n:check
 npm run i18n:audit
 ```
 
-Backend:
+Run backend tests:
 
 ```bash
 cd server
@@ -416,56 +578,67 @@ pytest tests/
 
 ---
 
-## ⚠️ Prototype Scope & Limitations
+## ⚠️ Prototype Scope and Limitations
 
-FarmLink AI is currently a working prototype.
+Krishi Mitra is currently a working prototype.
 
 - Authentication uses a demonstration role-selection flow.
 - Checkout uses simulated payments; no real money is processed.
-- Some language resources may use English fallback.
+- Some regional translations may use English fallback.
 - Forecasting and price intelligence use demonstration inputs rather than validated live agricultural datasets.
 - Live GPS tracking requires an external device or browser location integration.
 - SAP exports generate mock payloads rather than connecting to live SAP infrastructure.
 
-Production deployment would require hardened authentication, managed database infrastructure, monitoring, security controls and production integrations.
+Production deployment requires hardened authentication, managed database infrastructure, monitoring, security controls, backups and production integrations.
 
 ---
 
-## 🌍 Our Impact
+## 🌍 Our Contribution to Sustainable Development
 
-FarmLink AI is designed around several United Nations Sustainable Development Goals:
+Krishi Mitra aligns with four United Nations Sustainable Development Goals.
 
-| Goal | Focus |
+<p align="center">
+  <img src="https://sdgs.un.org/sites/default/files/goals/E_SDG_Icons-02.jpg" width="100" alt="SDG 2 Zero Hunger" />
+  <img src="https://sdgs.un.org/sites/default/files/goals/E_SDG_Icons-08.jpg" width="100" alt="SDG 8 Decent Work" />
+  <img src="https://sdgs.un.org/sites/default/files/goals/E_SDG_Icons-12.jpg" width="100" alt="SDG 12 Responsible Consumption" />
+  <img src="https://sdgs.un.org/sites/default/files/goals/E_SDG_Icons-13.jpg" width="100" alt="SDG 13 Climate Action" />
+</p>
+
+| SDG | Contribution |
 |---|---|
-| SDG 2 | Zero Hunger |
-| SDG 8 | Decent Work and Economic Growth |
-| SDG 12 | Responsible Consumption and Production |
-| SDG 13 | Climate Action |
+| 2 – Zero Hunger | Supporting agricultural market accessibility |
+| 8 – Decent Work | Promoting better economic opportunities |
+| 12 – Responsible Consumption | Encouraging efficient supply chains |
+| 13 – Climate Action | Supporting more efficient transportation |
 
 ---
 
 ## 🤝 Contributing
 
-Contributions, suggestions and ideas are welcome.
+We welcome contributions, suggestions and ideas that can make agricultural technology more accessible.
 
 1. Fork the repository.
 2. Create a feature branch.
-3. Make your changes.
+3. Implement your changes.
 4. Test your implementation.
 5. Submit a pull request with a clear description.
 
 ---
 
-## 👨‍💻 Built With Purpose
+## 🌾 Our Belief
 
-**FarmLink AI**
+We believe technology should reach the people who need it most.
 
-Building a smarter, more connected and more accessible agricultural supply chain.
+Krishi Mitra is an effort to bring farmers, markets and technology closer together, building a more connected and accessible agricultural ecosystem.
 
 <p align="center">
-  🌾 Empowering Farmers · Connecting Markets · Optimising Logistics
+  <h2 align="center">🌱 Krishi Mitra</h2>
+  <h3 align="center">Grow Together. Prosper Together.</h3>
+  <p align="center">
+    Empowering Farmers • Connecting Markets • Optimising Logistics
+  </p>
 </p>
 
 <p align="center">
-  <strong>Direct Markets. Smarter Decisions. Better Delivery.</strong>
+  <strong>Built with purpose for a stronger agricultural future. 🇮🇳</strong>
 </p>
