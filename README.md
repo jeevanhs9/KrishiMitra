@@ -2,7 +2,11 @@
 ### Grow Together. Prosper Together.
 
 <p align="center">
-  <img src="src/assets/Krishi%20Mitra_%20Growing%20Together%20Animated%20Storyboard.png" width="100%" alt="Krishi Mitra - Agricultural Technology" />
+  <img
+    src="./src/assets/YOUR_GIF_FILENAME.gif"
+    width="100%"
+    alt="Krishi Mitra - Grow Together. Prosper Together."
+  />
 </p>
 
 <p align="center">
